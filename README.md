@@ -13,4 +13,4 @@ Why does the intuition of the "explanatory gap" persist despite physicalist expl
 According to this theory, qualia are internal interfaces evolved under three structural conditions: (i) Necessity of multi-agent coordination, (ii) Irreversible compression of internal states, and (iii) Non-calibratability.
 This framework explains the reality of qualia, their social origin, and the persistence of the explanatory gap intuition within a single structural model. Furthermore, it presents falsifiable predictions regarding the disappearance of qualia in fully shared environments.
 
-[Read the full paper (Japanese)](QSST_v8.pdf)
+[Read the full paper (Japanese)](QSST.pdf)
